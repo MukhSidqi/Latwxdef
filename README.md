@@ -1,5 +1,3 @@
-# Latwxdef
-Latihan wxdef
 #include <cstdlib>
 #include <iostream>
 #include <cmath>
@@ -48,3 +46,6 @@ else {
   return 0;
 }
   
+    
+
+ 
